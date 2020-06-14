@@ -1,4 +1,4 @@
-class Execute { //Comment
+class Execute { //Comment1
   public static void main(String[] args) {
     // static クラス
     Outer.StaticInner staticInner = new Outer.StaticInner();
